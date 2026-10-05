@@ -1,0 +1,7 @@
+transformers==4.56.1
+datasets>=3.0.0
+numpy>=1.26
+scikit-learn>=1.5
+tqdm>=4.66
+math-verify>=0.7
+accelerate>=1.0
